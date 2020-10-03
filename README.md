@@ -50,11 +50,5 @@ I love to solve problems and find solutions and then work hard to make them opti
 <hr />
 </details>
 
-
-#### My Activity
-
-
-
-
 ⭐️ From [aminekaabachi](https://github.com/aminekaabachi)
 
