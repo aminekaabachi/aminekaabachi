@@ -5,9 +5,9 @@
 <a href="https://www.linkedin.com/in/aminekaabachi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aminekaabachi" height="20" width="20" /></a>
 <a href="https://twitter.com/_kaabachi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aminekaabachi" height="20" width="20" /></a>
 <a href="https://medium.com/@aminekaabachi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aminekaabachi" height="20" width="20" /></a>
-<a href="#"><img src="https://komarev.com/ghpvc/?username=aminekaabachi&style=flat-square" alt="aminekaabachi" style="line-height:25px" /></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=aminekaabachi&style=flat-square" alt="aminekaabachi" style="line-height:25px" />
 
 - 🌱 I'm in ♥ with Kubernetes, Golang, Scala, Spark, CyberSec, and also Graphic Design.
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: use the badges above 😃
 
-- ⚡ I have a blog at https://kaabachi.io where I try to post as frequently as I can (crossposting to [medium.com](https://medium.com/@amine.kaabachi/)). Everything I post is tech related and about things I find interesting to explain or to make others know about it.
+- ⚡ I have a blog at https://kaabachi.io where I try to post as frequently as I can (crossposting to [medium.com](https://medium.com/@amine.kaabachi/)).
 
 <details>
 <summary>A Little More About me!</summary>
