@@ -27,7 +27,7 @@ In 2018, I completed a successful internship on software optimization to handle 
 <br /><br />
 My geek story started long before, I was passionate about computer science since childhood. I won many competitions local and international and hackathons and I'm still active on cybersecurity competitions with the CTF “the3000” team.
 <br /><br />
-I love to solve problems and find solutions and then work hard to make them optimal. I enjoy the Linux ecosyste . I also think Kubernetes is the future of operating systems. I also like good presentations / tech-talks so I try to make slides that are artistically fair when I have the opportunity.
+I love to solve problems and find solutions and then work hard to make them optimal. I enjoy the Linux ecosystem and I highly think that Kubernetes is the future of operating systems. I love good presentations / tech-talks so I try to make slides that are artistically fair when I have the opportunity.
 <hr />
 </p>  
 </details>
