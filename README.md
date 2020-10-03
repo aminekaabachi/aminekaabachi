@@ -7,8 +7,6 @@
 <a href="https://medium.com/@aminekaabachi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aminekaabachi" height="20" width="20" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=aminekaabachi&style=flat-square" alt="aminekaabachi" style="line-height:25px" />
-
 - 🌱 I'm in ♥ with Kubernetes, Golang, Scala, Spark, CyberSec, and also Graphic Design.
 
 - 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
@@ -46,6 +44,8 @@ I love to solve problems and find solutions and then work hard to make them opti
 <hr />
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aminekaabachi&show_icons=true&hide_border=true)
+
+<img src="https://komarev.com/ghpvc/?username=aminekaabachi&style=flat-square" alt="aminekaabachi" style="line-height:25px" />
 
 <hr />
 </details>
