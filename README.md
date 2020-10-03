@@ -4,6 +4,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/aminekaabachi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aminekaabachi" height="20" width="20" /></a>
 <a href="https://twitter.com/_kaabachi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aminekaabachi" height="20" width="20" /></a>
+<a href="https://dev.to/aminekaabachi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@aminekaabachi" height="20" width="20" /></a>
 <a href="https://medium.com/@amine.kaabachi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aminekaabachi" height="20" width="20" /></a>
 <a href="https://www.quora.com/profile/Amine-Kaabachi-2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="aminekaabachi" height="20" width="20" /></a> 
 <a href="https://stackexchange.com/users/3617860/aminekaabachi?tab=accounts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackexchange.svg" alt="aminekaabachi" height="20" width="20" /></a> 
