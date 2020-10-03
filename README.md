@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: use the badges above 😃.
 
-- ⚡ I have a blog at https://kaabachi.io where I try to post as frequently as I can (crossposting to [medium.com](https://medium.com/@amine.kaabachi/)).
+- ⚡ I have a blog at https://kaabachi.io where I try to post as frequently as I can (crossposting to [medium.com](https://medium.com/@amine.kaabachi/) and [DEV.to](https://dev.to/aminekaabachi)).
 
 ---
 
