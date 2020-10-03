@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/aminekaabachi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aminekaabachi" height="20" width="20" /></a>
 <a href="https://twitter.com/_kaabachi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aminekaabachi" height="20" width="20" /></a>
-<a href="https://medium.com/@aminekaabachi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aminekaabachi" height="20" width="20" /></a>
+<a href="https://medium.com/@amine.kaabachi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aminekaabachi" height="20" width="20" /></a>
 </p>
 
 - 🌱 I'm in ♥ with Kubernetes, Golang, Scala, Spark, CyberSec, and also Graphic Design.
