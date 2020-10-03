@@ -15,6 +15,8 @@
 
 - ⚡ I have a blog at https://kaabachi.io where I try to post as frequently as I can (crossposting to [medium.com](https://medium.com/@amine.kaabachi/)).
 
+---
+
 <details>
 <summary>A Little More About me!</summary>
 <p align="left">  
