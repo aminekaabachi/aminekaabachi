@@ -11,14 +11,14 @@
 
 - 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
-- 📫 How to reach me: use the badges above 😃
+- 📫 How to reach me: use the badges above 😃.
 
 - ⚡ I have a blog at https://kaabachi.io where I try to post as frequently as I can (crossposting to [medium.com](https://medium.com/@amine.kaabachi/)).
 
 ---
 
 <details>
-<summary>A Little More About me!</summary>
+  <summary><b>More about me</b></summary>
 <p align="left">  
 <small> 
 <hr />
@@ -26,13 +26,13 @@ In 2018, I completed a successful internship on software optimization to handle 
 <br /><br />
 My geek story started long before, I was passionate about computer science since childhood. I won many competitions local and international and hackathons and I'm still active on cybersecurity competitions with the CTF “the3000” team.
 <br /><br />
-I love to solve problems and find solutions and then work hard to make them optimal. I enjoy the Linux ecosystem. and i think kubernetes is the future of operating systems. I also like good presentations / tech-talks so I try to make slides that are artistically fair when I have the opportunity.
+I love to solve problems and find solutions and then work hard to make them optimal. I enjoy the Linux ecosyste . I also think Kubernetes is the future of operating systems. I also like good presentations / tech-talks so I try to make slides that are artistically fair when I have the opportunity.
 <hr />
 </p>  
 </details>
 
 <details>
-<summary>My Articles!</summary>
+  <summary><b>My articles</b></summary>
 <hr />
   
 - [Building a Python SDK for Azure Databricks](https://kaabachi.io/building-python-sdk-for-azure-databricks/)
@@ -42,7 +42,7 @@ I love to solve problems and find solutions and then work hard to make them opti
 </details>
 
 <details>
-<summary>My Github stats!</summary>
+  <summary><b>My Github stats</b></summary>
 <hr />
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aminekaabachi&show_icons=true&hide_border=true)
