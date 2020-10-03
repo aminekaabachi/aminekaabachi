@@ -18,7 +18,7 @@
 - ⚡ I have a blog at https://kaabachi.io where I try to post as frequently as I can (crossposting to [medium.com](https://medium.com/@amine.kaabachi/)). Everything I post is tech related and about things I find interesting to explain or to make others know about it.
 
 <details>
-<summary>A Little More About me `click to expand` !</summary>
+<summary>A Little More About me!</summary>
 <p align="left">  
 <small> 
 <hr />
@@ -31,22 +31,29 @@ I love to solve problems and find solutions and then work hard to make them opti
 </p>  
 </details>
 
-
-
-#### My Articles
-
+<details>
+<summary>My Articles!</summary>
+<hr />
+  
 - [Building a Python SDK for Azure Databricks](https://kaabachi.io/building-python-sdk-for-azure-databricks/)
 - [Ways to authenticate Azure Databricks REST API](https://kaabachi.io/ways-to-authenticate-azure-databricks-api/)
 
-#### My Activity
+<hr />
+</details>
 
+<details>
+<summary>My Github stats!</summary>
+<hr />
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aminekaabachi&show_icons=true&hide_border=true)
 
-#### My Projects
-<p align="center">
-<b>Already Pinned Down for you sire!</b></br>
-<img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
-</p>
+<hr />
+</details>
+
+
+#### My Activity
+
+
 
 
 ⭐️ From [aminekaabachi](https://github.com/aminekaabachi)
