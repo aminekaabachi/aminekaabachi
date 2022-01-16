@@ -1,5 +1,5 @@
 <h1 align="center"> عسلامة 👋, I'm Amine Kaabachi</h1>
-<h3 align="center">Data wizard by day; Flipping classic bits since 1993 (started Qbits lately)</h3>
+<h3 align="center">Data wizard by day; Flipping classic bits since 1993 (Qubits newbee too)</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aminekaabachi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aminekaabachi" height="20" width="20" /></a>
